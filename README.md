@@ -1,1 +1,1 @@
-# xgboost-algorithm-using-stock-prediction-
+# stock prediction using Xgbooast algorithm 
